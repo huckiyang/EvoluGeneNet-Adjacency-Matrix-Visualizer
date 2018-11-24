@@ -1,0 +1,2 @@
+badChans: [24 33 38]
+goodChans: [71 72 65]
