@@ -2,7 +2,9 @@
 ICML-IJCAI Workshop 2018
 
 ### New Colab version 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zUmSBLqQqmRCyjDzmMCW-t0Dci3SDgkV#scrollTo=Fh68rdepXlso]
+
 A Colab (online python 3 notebook version) could be found out here. ![Colab](https://colab.research.google.com/drive/1zUmSBLqQqmRCyjDzmMCW-t0Dci3SDgkV)
 
 ## Learning Functions in Large Networks requires Modularity and produces Multi-Agent Dynamics
