@@ -7,6 +7,19 @@ ICML-IJCAI Workshop 2018
 
 A Colab (online python 3 notebook version) could be found out here. 
 ## Learning Functions in Large Networks requires Modularity and produces Multi-Agent Dynamics
+
+## Adjacency-Matrix-Visualizer
+
+![img](https://github.com/huckiyang/EvoluGeneNet-Adjacency-Matrix-Visualizer/blob/master/img/Fig4.png)
+
+### A scalable tool to visualize the adjacency matrix with values on the edges, direction, and the sum of value as the node size.
+
+- to use the Adjacency-Matrix-Visualizer. Please refer to ![Color.m](https://github.com/huckiyang/EvoluGeneNet-Adjacency-Matrix-Visualizer/blob/master/Adj_Network_Visualization/Color.m). Put your matrix in Color(martix) could get the scalable visualizatoin. 
+
+## Functional Dynamic Gene Circuit
+
+![img](https://github.com/huckiyang/EvoluGeneNet-Adjacency-Matrix-Visualizer/blob/master/img/frenchflag_gene_circuit.png)
+
 C. H. Huck Yang, Rise Ooi, Tom Hiscock, Vctor Eguluz and Jesper Tegner
 
 https://arxiv.org/abs/1807.03001
