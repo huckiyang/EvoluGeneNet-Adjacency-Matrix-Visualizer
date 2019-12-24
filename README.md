@@ -20,6 +20,8 @@ A Colab (online python 3 notebook version) could be found out here.
 
 ![img](https://github.com/huckiyang/EvoluGeneNet-Adjacency-Matrix-Visualizer/blob/master/img/frenchflag_gene_circuit.png)
 
+- x-axis = input-level (concentration) & y-axis = level (feedback)
+
 C. H. Huck Yang, Rise Ooi, Tom Hiscock, Vctor Eguluz and Jesper Tegner
 
 https://arxiv.org/abs/1807.03001
