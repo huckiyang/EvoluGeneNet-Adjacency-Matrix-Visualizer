@@ -21,6 +21,8 @@ A Colab (online python 3 notebook version) could be found out here.
 
 - Put your matrix in Visualizer(martix) could get the scalable visualizatoin. 
 
+- [![View Adjacency-Matrix-Visualizer on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/73772-adjacency-matrix-visualizer)
+
 ## Functional Dynamic Gene Circuit
 
 ![img](https://github.com/huckiyang/EvoluGeneNet-Adjacency-Matrix-Visualizer/blob/master/img/frenchflag_gene_circuit.png)
