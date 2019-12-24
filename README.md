@@ -14,9 +14,9 @@ A Colab (online python 3 notebook version) could be found out here.
 
 ### A scalable tool to visualize the adjacency matrix with values on the edges, direction, and the sum of value as the node size.
 
-- to use the Adjacency-Matrix-Visualizer. Please refer to ![Color.m](https://github.com/huckiyang/EvoluGeneNet-Adjacency-Matrix-Visualizer/blob/master/Adj_Network_Visualization/Color.m). 
+- to use the Adjacency-Matrix-Visualizer. Please refer to ![Visualizer.m](https://github.com/huckiyang/EvoluGeneNet-Adjacency-Matrix-Visualizer/blob/master/Adj_Network_Visualization/Visualizer.m). 
 
-- Put your matrix in Color(martix) could get the scalable visualizatoin. 
+- Put your matrix in Visualizer(martix) could get the scalable visualizatoin. 
 
 ## Functional Dynamic Gene Circuit
 
