@@ -1,4 +1,4 @@
-# ES-GeneNet
+# ICML'18 workshop - Evolutionary Strategy Gradient Decent for Functional Gene Circuit
 ICML-IJCAI Workshop 2018
 
 ### New Colab version 
