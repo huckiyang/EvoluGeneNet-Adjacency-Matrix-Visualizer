@@ -1,4 +1,4 @@
-# ICML'18 workshop - Evolutionary Strategy Gradient Decent for Functional Gene Circuit
+# ICML'18 workshop - Evolutionary Strategy Gradient Decent for Designing Functional Gene Circuit
 ICML-IJCAI Workshop 2018 (tensorflow version)
 
 ### New Colab version 
