@@ -9,7 +9,8 @@ ICML-IJCAI Workshop 2018 (tensorflow version)
 
 
 A Colab (online python 3 notebook version) could be found out here. 
-## Learning Functions in Large Networks requires Modularity and produces Multi-Agent Dynamics
+
+- ICML 2018 Workshop, Learning Functions in Large Networks requires Modularity and produces Multi-Agent Dynamics
 
 ## Adjacency-Matrix-Visualizer
 
