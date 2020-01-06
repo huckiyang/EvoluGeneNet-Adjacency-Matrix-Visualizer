@@ -5,12 +5,13 @@ ICML-IJCAI Workshop 2018 (tensorflow version)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huckiyang/EvoluGeneNet-Adjacency-Matrix-Visualizer/blob/master/EvoluGeneNet_ICML2018_CompBioWorkshop.ipynb)
 
-
-
-
 A Colab (online python 3 notebook version) could be found out here. 
 
 - ICML 2018 Workshop, Learning Functions in Large Networks requires Modularity and produces Multi-Agent Dynamics
+
+### We sincerely appreciate Dr. Hiscock for open source his original GeneNet code.
+### This repo was modified from his version. https://github.com/twhiscock/GeneNet-
+### His latest version of GeneNet https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6487017/
 
 ## Adjacency-Matrix-Visualizer
 
