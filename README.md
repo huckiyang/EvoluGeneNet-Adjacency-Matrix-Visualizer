@@ -44,7 +44,7 @@ If you find this useful in your work, please consider citing the following refer
 @article{yang2018learning,
   title={Learning Functions in Large Networks requires Modularity and produces Multi-Agent Dynamics},
   author={Yang, CH and Ooi, Rise and Hiscock, Tom and Eguiluz, Victor and Tegner, Jesper},
-  journal={arXiv preprint arXiv:1807.03001},
+  journal={Workshop of Computational Biology, ICML 2018},
   year={2018}
 }
 ```
