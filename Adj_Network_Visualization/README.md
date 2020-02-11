@@ -1,5 +1,6 @@
 ## How to use
 
+- check the M17.m
 
 ``eig(jacb_sig(P))``
 
